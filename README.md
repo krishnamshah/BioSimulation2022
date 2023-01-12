@@ -7,7 +7,7 @@
     1. Select "Create blank project".
 	1. Choose project name `BioSim Axx FirstName1 FirstName2`. The corresponding "Project slug" will then be `biosim-axx-firstname1-firstname2`.  Here, `xx` is your group number (with leading zero!) and `FirstName1` and `FirstName2` your first names as in the group name.
     1. Check off for "Intialize repository with a README".
-1. One of you then does the following on your computer:
+1. Do the following on your computer:
     1. Start PyCharm and select `Get from VCS`
 	1. Paste the URL from the GitLab clone button and choose a sensible location on your computer.
 	1. Once PyCharm has cloned and opened the project, ensure that the correct Python interpreter is chosen (the `inf200` conda environment).
